@@ -1,4 +1,14 @@
 #title {
     color: red;
-    background-color: blue;
+    background-color: black;
+}
+
+p {
+    color: blue;
+    background-color: white;
+    font-size: 20px;
+}
+p:hover {
+    color: green;
+    background-color: yellow;
 }
